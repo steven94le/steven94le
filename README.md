@@ -6,13 +6,12 @@
   <img height="450" src="https://user-images.githubusercontent.com/76791687/191133073-b93dc248-0a09-4450-ae25-00dc9d0a894f.jpeg">
 </p>
 
-<p align="center">When I'm not tinkering with the latest tools in tech or deep diving into spreadsheets, I like to explore every nook and cranny of this world.</p>
+<p align="center">When I'm not tinkering with the latest tools in tech or deep diving into spreadsheets, 
+<br/>
+I like to explore every nook and cranny of this world.</p>
 
+### <p align="center">🔧 Programming, Frameworks, Software Tools 🔧</p>
 <p align="center">
-🔧 Programming, Frameworks, Software Tools 🔧
-<br/>
-<br/>
-
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 <img height="50" width="50" src="https://user-images.githubusercontent.com/76791687/191143735-3f169949-fb2c-4da4-9984-76a62f0eb632.png">
@@ -26,10 +25,7 @@
 <img height="50" width="50" src="https://user-images.githubusercontent.com/76791687/191143590-feed5651-8f55-4885-a993-b0e19e818879.png">
 </p>
 
-<p align="center">
-📫 Let's Connect! 📫 
-</p>
-
+### <p align="center"> 📫 Let's Connect! 📫  </p>
 <div align="center">
 <a href="https://github.com/steven94le" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/steven94le/" target="_blank">LinkedIn</a> | <a href="steven94le@gmail.com" target="_blank">steven94le@gmail.com</a>
 </div>
