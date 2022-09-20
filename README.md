@@ -27,5 +27,5 @@ I like to explore every nook and cranny of this world.</p>
 
 ### <p align="center"> ✉ Let's Connect! ✉  </p>
 <div align="center">
-<a href="https://github.com/steven94le" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/steven94le/" target="_blank">LinkedIn</a> | <a href="steven94le@gmail.com" target="_blank">steven94le@gmail.com</a>
+<a href="https://github.com/steven94le" target="_blank">GitHub</a> | <a target="_blank">steven94le@gmail.com</a> | <a href="https://www.linkedin.com/in/steven94le/" target="_blank">LinkedIn</a> 
 </div>
