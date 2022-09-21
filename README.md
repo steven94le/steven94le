@@ -8,7 +8,7 @@
 
 <p align="center">When I'm not tinkering with the latest tools in tech or deep diving into spreadsheets, 
 <br/>
-I like to explore every nook and cranny of this world.</p>
+I like to explore every nook of this world.</p>
 
 ### <p align="center">🔧 Programming, Frameworks & Software Tools 🔧</p>
 <p align="center">
