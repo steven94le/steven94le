@@ -13,6 +13,7 @@ I like to explore every nook and cranny of this world.</p>
 ### <p align="center">🔧 Programming, Frameworks & Software Tools 🔧</p>
 <p align="center">
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img height="50" width="50" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 <img height="50" width="50" src="https://user-images.githubusercontent.com/76791687/191143735-3f169949-fb2c-4da4-9984-76a62f0eb632.png">
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
