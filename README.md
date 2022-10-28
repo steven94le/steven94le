@@ -17,10 +17,6 @@
   📚 Reading - The Design of Everyday Things by Don Norman 📚
 </p>
 
-<p align="center">
-  💡 Interested In - improving on JS, microservices, attending MongoDB.local Toronto (12/10/2022) 💡
-</p>
-
 
 ### <p align="center">🔧 Programming, Frameworks & Software Tools 🔧</p>
 <p align="center">
