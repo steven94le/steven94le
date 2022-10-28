@@ -6,19 +6,19 @@
 </p>
 
 <p align="center">
-  Currently
+  ~Currently~
 </p>
 
 <p align="center">
-  🧑‍💻 Working On --- A Personal Spotify Web App 🧑‍💻
+  🧑‍💻 Working On - A Personal Spotify Web App 🧑‍💻
 </p>
 
 <p align="center">
-  📚 Reading --- The Design of Everyday Things by Don Norman 📚
+  📚 Reading - The Design of Everyday Things by Don Norman 📚
 </p>
 
 <p align="center">
-  💡 Interested In --- improving on JS, microservices, attending MongoDB.local Toronto (12/10/2022) 💡
+  💡 Interested In - improving on JS, microservices, attending MongoDB.local Toronto (12/10/2022) 💡
 </p>
 
 
