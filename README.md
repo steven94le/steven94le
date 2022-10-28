@@ -6,7 +6,11 @@
 </p>
 
 <p align="center">
-  🧑‍💻 Working On --- Personal Spotify Web App 🧑‍💻
+  Currently
+</p>
+
+<p align="center">
+  🧑‍💻 Working On --- A Personal Spotify Web App 🧑‍💻
 </p>
 
 <p align="center">
@@ -14,7 +18,7 @@
 </p>
 
 <p align="center">
-  💡 Excited For --- MongoDB.local Toronto (December 15, 2022) 💡
+  💡 Interested In --- improving on JS, microservices, attending MongoDB.local Toronto (12/10/2022) 💡
 </p>
 
 
