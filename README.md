@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🧑‍💻 Working On - A little Typescript-based note app 🧑‍💻
+  🧑‍💻 Working On - A React-based music app using Spotify API 🧑‍💻
 </p>
 
 <p align="center">
