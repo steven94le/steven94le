@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🧑‍💻 Working On - A React-based music app using Spotify API 🧑‍💻
+  🧑‍💻 Working On - A Spotify-inspired React-based app & Learning AWS 🧑‍💻
 </p>
 
 <p align="center">
