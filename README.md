@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🧑‍💻 Working On - A Spotify-inspired React-based app & Learning AWS 🧑‍💻
+  🧑‍💻 Working On - Learning AWS and Stripe via a React-based online store 🧑‍💻
 </p>
 
 <p align="center">
