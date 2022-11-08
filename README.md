@@ -5,19 +5,6 @@
   <img height="450" src="https://user-images.githubusercontent.com/76791687/191133073-b93dc248-0a09-4450-ae25-00dc9d0a894f.jpeg">
 </p>
 
-<p align="center">
-  ~Currently~
-</p>
-
-<p align="center">
-  🧑‍💻 Working On - a React-based Spotify-inspired app 🧑‍💻
-</p>
-
-<p align="center">
-  📚 Reading - The Design of Everyday Things by Don Norman 📚
-</p>
-
-
 ### <p align="center">🔧 Programming, Frameworks & Software Tools 🔧</p>
 <p align="center">
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
